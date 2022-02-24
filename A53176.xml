@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Observations upon Mr Walkers account of the Siege of London-derry with some remarks on the great and memorable actions there done.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53176</idno>
+            <idno type="STC">Wing O112</idno>
+            <idno type="STC">ESTC R26891</idno>
+            <idno type="EEBO-CITATION">09570930</idno>
+            <idno type="OCLC">ocm 09570930</idno>
+            <idno type="VID">43681</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53176)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43681)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1336:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Observations upon Mr Walkers account of the Siege of London-derry with some remarks on the great and memorable actions there done.</title>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Simpson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>"Licensed October 4th, 1689. J.F."</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  War of 1689-1691.</term>
+               <term>Londonderry (Northern Ireland) --  History --  Siege, 1689.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:43681:1" rendition="simple:additions"/>
+            <head>Obſervations UPON M<hi rend="sup">R.</hi> Walkers Account OF THE <hi>SIEGE</hi> of <hi>London-Derry.</hi> WITH SOME REMARKS On the Great and Memorable Actions there done.</head>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi>Licenſed,</hi> October 4th. 1689.</p>
+                  <closer>
+                     <signed>J. F.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>ENvy is the inſeparable Concomitant of Great, and Brave Men; all extraordinary Perfor<g ref="char:EOLhyphen"/>mances are attended by Obloquy, and Cen<g ref="char:EOLhyphen"/>ſure. No ſooner does the proſperous Sun<g ref="char:EOLunhyphen"/>ſhine upon any Generous Enterprize, but Clouds of Malice, Mediſance, and Detraction obſcure the Glo<g ref="char:EOLhyphen"/>ry of the Undertaking; and Love, Charity, and Reſpect, degenerate into Hatred, Deſpight, and Contempt.</p>
+            <p>
+               <pb n="2" facs="tcp:43681:2"/>It is not long ſince the Eyes of all <hi>England</hi> were fix'd upon the Succeſs of <hi>London-Derry:</hi> The <hi>Pro<g ref="char:EOLhyphen"/>teſtants</hi> ſolemnly wiſh'd for its Preſervation, as the laſt Pledge of their Security, and Reſtitution: The <hi>Papiſts</hi> eagerly long'd for its <hi>Rendition,</hi> as the infalli<g ref="char:EOLhyphen"/>ble means to complete their univerſal Deſign; and an uncontroulable Opportunity to poſſeſs <hi>Ireland,</hi> to invade <hi>Scotland,</hi> and embroyle <hi>England<g ref="char:punc">▪</g>
+               </hi> To ſay no<g ref="char:EOLhyphen"/>thing of the Proteſtant Intereſt through <hi>Europe,</hi> on which the Fate of that Place had an undoubted Aſpect, and Influence.</p>
+            <p>At that time, all men were prompted with a Cu<g ref="char:EOLhyphen"/>rioſity to obſerve, and wonder, that ſo mean a Place could make ſo Vigorous a Reſiſtance againſt ſo terri<g ref="char:EOLhyphen"/>ble a Siege; that a Rabble of raw un-diſciplin'd men could know how to make ſuch proſperous Sallys a<g ref="char:EOLhyphen"/>gainſt a Formidable Army, commanded by Officers of great Name. It was the Talk of every Meeting, Club, and Table; every man was inquiſitive to un<g ref="char:EOLhyphen"/>derſtand who was the Commander, and Governour of that City; and when it came to be known, that Mr. <hi>Walker</hi> was the man, a thouſand Queſtions were ſtarted about his Birth, Education, Function, and In<g ref="char:EOLhyphen"/>clinations, all men admiring at ſuch prodigious Ac<g ref="char:EOLhyphen"/>tions, which no Age, nor Hiſtory can parallel, and which create a Credibility even in the moſt impro<g ref="char:EOLhyphen"/>bable Romances. No leſs liberal were they in their Applauſes and Commendations, extolling his Fame in Verſes and Panegyricks, publiſhing his Effigies in Printed Cuts, toſſing his Name between Printers and Hawkers, and making it the Subject of News-Let<g ref="char:EOLhyphen"/>ters, and Gazets; while every man, according to his Fancy, proportion'd a Reward to his un-requitable
+<pb n="3" facs="tcp:43681:2"/>
+Merits: It ſeem'd, as if <hi>London</hi> intended him a pub<g ref="char:EOLhyphen"/>lick <hi>Roman</hi> Triumph, and the whole Kingdom to be Actors, or Spectators of the Cavalcade. At laſt he arrived; the King received him gratiouſly, and con<g ref="char:EOLhyphen"/>ferred on him a Mark of His Favour, and Eſteem; the Lords of the Council, and ſeveral of the Nobi<g ref="char:EOLhyphen"/>lity careſſed him with abundance of Kindneſs, and Reſpect: the Prime Citizens treated him with all the Demonſtrations of Joy, and Gratitude; and the Vul<g ref="char:EOLhyphen"/>gar even ſtiffed him with Gazing, Crowding, and Acclamations.</p>
+            <p>Amidſt this Warmth of Honour, and Satisfaction, ſome malignant Exhalations have been rais'd, to dar<g ref="char:EOLhyphen"/>ken and obſcure the Reputation of this moſt celebra<g ref="char:EOLhyphen"/>ted Perſon; and invidious men have ſought Inven<g ref="char:EOLhyphen"/>tions to diſparage his Veracity, and vilifie his Cre<g ref="char:EOLhyphen"/>dit; and ſtirred up a Duſt, which poſſibly may re<g ref="char:EOLhyphen"/>verberate on the Eyes of them that caus'd it, but can with no Reaſon, or Juſtice, affect him.</p>
+            <p>Mr. <hi>Walker</hi> being by his beſt and neareſt Friends preſs'd to write a Narrative of the Memorable Siege of <hi>London-Derry,</hi> was with much Reluctancy per<g ref="char:EOLhyphen"/>ſwaded to it, becauſe it was impoſſible to emit a Suc<g ref="char:EOLhyphen"/>cinct and exact Narration of ſo many various and un<g ref="char:EOLhyphen"/>uſual Adventures, without mentioning the Errours, and Miſcarriages of ſome concern'd in that Affair on the one hand; and on the other hand, without doing Violence to his own Modeſty, in becoming the He<g ref="char:EOLhyphen"/>rauld of his own Praiſes. Nevertheleſs, out of ſuch Notes, and Minutes, as he had by him, and ſet down upon the Place, he digeſted all matters into an orderly Account of the Siege, induſtriouſly omitting the Ho<g ref="char:EOLhyphen"/>nour due to himſelf, in many particular Actions;
+<pb n="4" facs="tcp:43681:3"/>
+and paſſing over, or very tenderly touching upon ſuch things as really are unaccountable, and unexcuſable. So that I dare boldly ſay, there never was a Diſ<g ref="char:EOLhyphen"/>courſe of that Nature (wherein ſuch un-exampled Occurrences, ſo many men of different Humours, Perſwaſions, and Deſigns, muſt of neceſſity be taken Notice of) written with ſo much eaſineſs, calmneſs, and indifferency; and with ſo little Reflection.</p>
+            <p>Yet after all this, the Spirit of Envy and Detra<g ref="char:EOLhyphen"/>ction is ſeen in our Streets, and ſome men will be diſſatisfied, only to gratifie their own Perverſeneſs. One finds fault with the Form and Method of the Narrative; another cavils at the Contents and Paſ<g ref="char:EOLhyphen"/>ſages in it; never conſidering, that the Sincerity of a true and impartial Relation will not admit of ſuch Subterfuges of Art and Rhetorick, as are neceſſary to ſupport a Fancy, or Fiction: Neither is it eaſie to repreſent a Story with ſuch a Face of Impartiality, as the Beholder can eſpy no Spots, or Wrinkles in it. Some out of an incredulous Stiffneſs will not believe that a Perſon bred up in Study and Learning, con<g ref="char:EOLhyphen"/>verſant onely in Books, and accuſtomed to the Pul<g ref="char:EOLhyphen"/>pit, ſhould ſo wonderfully (as it were by an Enthu<g ref="char:EOLhyphen"/>ſiaſm of Military Skill) diſcharge the Part of a Ve<g ref="char:EOLhyphen"/>terane Souldier, and a GENERAL: But it is certain beyond all Colour of a Juſt Contradiction, that no man ever yet perform'd ſo difficult a Task with more Prudence, Moderation, and Dexterity; convinceing the World by his Example, that Learn<g ref="char:EOLhyphen"/>ing and Valour are not incompatible; that Wiſdom, Sagacity, and good Conduct, accompany'd by a clean and natural Courage, are ſufficient Qualifica<g ref="char:EOLhyphen"/>tions to make a Great Commander, without the
+<pb n="5" facs="tcp:43681:3"/>
+Aid of Diſcipline, Exerciſe, and the Art of War. Others taking Notice, that <hi>Colonel Baker</hi> (who in<g ref="char:EOLhyphen"/>deed was a brave Man, and a good Souldier) is mentioned as his Collegue in the Government; and that other Officers and Gentlemen have been Sha<g ref="char:EOLhyphen"/>rers in the Fateigue and Dangers attending the Siege, ſeem to grudge and repine, that the Honour of thoſe extraordinary Atchievements ſhould be attributed ſolely to him; and judging that the Pecuniary Re<g ref="char:EOLhyphen"/>ward preſented to him, ought with more Reaſon to be diſtributed, and divided among his Fellow-Actors. I ſhall ſay nothing to derogate from thoſe Worthy Perſons, who have ſo commendably acted, and ſuf<g ref="char:EOLhyphen"/>fered for their Religion, and Country: But when men ſhall coolly conſider, that the Officers and Souldiers of that Garriſon are the Object of the Kings eſpecial Care, and that by continuing them in Commands, or daily Pay, they receive a Re<g ref="char:EOLhyphen"/>compence anſwerable to their Merits; while Mr. <hi>Walker</hi> being by his Function uncapable of ſuch Im<g ref="char:EOLhyphen"/>ployments, could not depend upon a growing Sub<g ref="char:EOLhyphen"/>ſiſtence; they muſt ingeniouſly conclude, that His Majeſty did not teſtifie His Acknowledgments to him with leſs Prudence, than Generoſity: The further Effects of which, if he had not by his in<g ref="char:EOLhyphen"/>vincible Modeſty reſiſted, he had before this time been eſtabliſhed in a Station of great Eminency, and conſiderable Profit. And howſoever the Sum may bear the Shew of a Reward proportionate to his Service: I dare aver it is far ſhort of his very Sufferings, and will not reach to the refunding of what he has loſt in his Houſes and Perſonal Eſtate, by Fire, Plunder, and other Outrages done by his, and our implacable Enemies.</p>
+            <p>
+               <pb n="6" facs="tcp:43681:4"/>But all theſe Objections are but ſquibs and flu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ts, the extravagances of paſſionate and inconſiderate men, and ſuch as are ſtrangers to the Buſineſs, to the Place, and to Him: Hitherto, I have had no further Tryal, than to avoid the ſingle Attacks of a particular diſpleaſure, doubt or diſſatisfaction; I am now to en<g ref="char:EOLhyphen"/>counter a Legion; I hear a Volly of Whiſpers and Murmurs, and ſome pragmatical men would pretend to intereſs a whole Party; tho' I perſwade my ſelf that men ſo Diſcreet and ſo Judicious, will not concern themſelves in ſuch Altercations. It is obſerved, that in the Account given of the <hi>Siege of London-Derry,</hi> a very black Character is infixed on a <hi>Non-Conformiſt</hi> Preacher, <hi>pag.</hi> 21. where it is ſaid, that Mr. <hi>Osburn was a Spy upon the whole North, imployed by my Lord Tir<g ref="char:EOLhyphen"/>connel:</hi> that in another Place (viz. <hi>pag.</hi> 57.) where the <hi>Miniſters of the Church of England</hi> are enumerated and re-counted by Pole; there is only a ſlight mention made of the <hi>Non-Conforming Ministers</hi> to the number of ſeven, but not the leaſt hint of one of their Names. In the Vindication of this paſſage, I ſhall deſire the Reader fairly and equally to conſider the Occaſion. Mr. <hi>Walker,</hi> when he had given an Account, that <hi>there were Eighteen Clergy-men in the Town of the Com<g ref="char:EOLhyphen"/>munion of the Church</hi> (aſcribing no more to them, than <hi>that in their turns, when they were not in Action, they had Prayers and Sermon every Day</hi>) he proceeds gentilely, and Impartially to commemorate the Carriage of the <hi>Seven Non-Conforming Ministers,</hi> giving them this En<g ref="char:EOLhyphen"/>comium (beyond that he ſaid of his own Brethren) <hi>that they were careful of their People, and kept them very Obedient and Quiet;</hi> and having a Deſign Rhetorically to enforce their Commendation, he could not more
+<pb n="7" facs="tcp:43681:4"/>
+Artificially inſinuate it to their Advantage, than by marking the plain Diſparity in the behaviour of <hi>their Brother Mr. Osburn,</hi> who in his Letters, Meſſages and Diſcourſes, was Re<g ref="char:EOLhyphen"/>ported to Entertain Sentiments very much different from theirs. I ſhall not at preſent ſay any more of Mr. <hi>Osburn,</hi> than what is already ſaid; but I deſire every man, who is not by<g ref="char:EOLhyphen"/>aſſed by prejudice or prepoſſeſſion, quietly to conſider, whe<g ref="char:EOLhyphen"/>ther Mr. <hi>Walker</hi> (pen't up within the Walls of <hi>London-Derry,</hi> deprived of all Information and Intelligence both of Pub<g ref="char:EOLhyphen"/>lick Affairs, and the Actions of Private Men) ſeeing a Letter from a Perſon generally known, and an Eminent Leader of a Party, diſcovering an admiſſion <hi>into the Preſence of the Popiſh Lord Deputy</hi> (the great Engine and Operator in the ruin of <hi>Ireland</hi>) an Intimacy with him, and a <hi>Truſt</hi> and <hi>Commiſſion</hi> de<g ref="char:EOLhyphen"/>rived from him, whereby he was directed to cajole the poor diſtracted and diſanimated Proteſtants, with the Terror of <hi>Conqueſt,</hi> and Military Execution on the one ſide, in caſe of Oppoſition; and the deluſion of hope to be ſecure under a <hi>Pro<g ref="char:EOLhyphen"/>tection,</hi> in caſe of <hi>Submiſſion,</hi> and a tame <hi>Surrender of their Arms, and Horſes:</hi> I ſay, whether Mr. <hi>Walker,</hi> peruſing this ambi<g ref="char:EOLhyphen"/>guous Letter, and obſerving the pernicious Effects of it, upon the generality of the People in <hi>
+                  <g ref="char:V">Ʋ</g>lſter,</hi> eſpecially thoſe of the writers Perſwaſion, whereby they were influenc'd to a ſtupid &amp; fatal Compliance (<hi>as if the Doctrine of</hi> Paſſive Obedience <hi>&amp;</hi> Non-Reſiſtance <hi>may be taught on fit occaſions, even by ſuch as diſ<g ref="char:EOLhyphen"/>ſent from the Church of</hi> England) had not reaſon to ſuſpect his Candor, and too apprehenſive, and become very jealous of his Integrity: If this Argument will not ſuffice to juſtify Mr. <hi>W</hi>'s. aſſertion (who in the whole Narrative is not provoked to fix a poſitive Character on any other Perſon but him) there may poſſibly be more demonſtrative Proofs ready to be produced, which nothing but querulous Murmurs, ſophiſtical Evaſions, and unhandſome Reflections can Extort from him. For aſſu<g ref="char:EOLhyphen"/>redly, neither he nor I retain any Inclinations, but what tend to Moderation and Unity; Earneſtly wiſhing a perfect Agreement &amp; Underſtanding among all <hi>Proteſtants.</hi> As to the other part of the Expoſtulation, why eighteen Names of the Miniſters of the Communion of the Church of <hi>England</hi> ſhould be diſtinctly recited; and of ſeven <hi>Non-Conforming</hi> Miniſters
+<pb n="8" facs="tcp:43681:5"/>
+not one ſhould be remembred; I have only this to ſay, that ſince thoſe Gentlemen did not think it fit to joyn with Mr. <hi>Walker</hi> in the Church, and poſſibly their Inclinations did not diſpoſe them to meet him upon the <hi>Walls,</hi> or accompany him in his Sallies; it is no way ſtrange or improbable, that their Names ſhould be altogether unknown to him; neither can he be ſuſ<g ref="char:EOLhyphen"/>pected purpoſely to over-look the naming of them, ſince he hath remembred them generally with ſo ingenious a Deſcrip<g ref="char:EOLhyphen"/>tion of their Care and Concernment for their Flock. Nay, to put it out of all Doubt, and beyond the reach of Murmur it ſelf; let it be taken Notice of (I am well aſſured of what I ſay) that when Mr. <hi>Walker</hi> gave His Majeſty an Account of the Affairs of <hi>London-Derry,</hi> he Candidly and Impartially repreſented the Action and Service of thoſe few <hi>Diſſenters</hi> in the Garriſon, and recommended them to the KINGS Fa<g ref="char:EOLhyphen"/>vours, equally with the reſt.</p>
+            <div type="part">
+               <head>Some <hi>Remarks</hi> upon the Great and Memorable SIEGE of <hi>London-Derry.</hi>
+               </head>
+               <p>IT is ſo ordinary a thing in the World, to aſcribe unuſual Succeſs and Proſperity in great Undertakings, to the Super-natural Operations of Providence, that every Country, and every Religion will at ſome time boaſt their Title, and ſhare in it. The <hi>Mahometans</hi> put in their Claim to this, as well as <hi>Chriſtians;</hi> and the univerſal ſpreading of Popery hath preſumed to inculcate that as an eſpecial Mark of Divine Approbation, which others have look'd on, only as a Permiſ<g ref="char:EOLhyphen"/>ſion of Vengeance for the Sins of thoſe who Profeſſed the true Religion. Miracles are ceaſed, yet it is no ſoleciſm to call ſuch Occurrences Miraculous, which come to paſs without means, beyond hope, contrary to expectation, where no hu<g ref="char:EOLhyphen"/>mane Art or Strength is greatly contributory; but the Finger of God is plainly viſible and diſcernible in all the Performan<g ref="char:EOLhyphen"/>ces, and Tranſactions. And that <hi>London-Derry,</hi> (and conſe<g ref="char:EOLhyphen"/>quently the <hi>Proteſtant</hi> Intereſt) hath been under the peculiar Protection of the Almighty, preſerved by un-foreſeen Acci<g ref="char:EOLhyphen"/>dents, and wonderfully Delivered from their Rage who ga<g ref="char:EOLhyphen"/>ped
+<pb n="9" facs="tcp:43681:5"/>
+for their Deſtructions, and preſumptuouſly aſſured them<g ref="char:EOLhyphen"/>ſelves of Victory: I ſhall endeavour to demonſtrate by the few following Remarks, which ſerve as ſo many Links to compoſe one <hi>Chain</hi> of Miracles.</p>
+               <p n="1">1. The inexcuſable overſight of the Earl of <hi>Tirconnel,</hi> who, to ſuper-erogate in his Zeal to ſerve the Late King, withdrew the whole Garriſon out of <hi>London-Derry,</hi> not leaving ſo much as a Centinel on the Walls, or a Souldier at the Gates; nor remembring to ſupply that removal by a New Potent, till People were awakened by their imminent Danger, and warn'd to conſult their Safety.</p>
+               <p n="2">2. The courageous and ſeaſonable Reſolution of the Inha<g ref="char:EOLhyphen"/>bitants of <hi>London-Derry</hi> to ſhut their Gates, &amp; deny Entrance to a numerous ſwarm of <hi>Iriſh</hi> and <hi>Highland Papiſts,</hi> who were juſt ready to enter, and at ſuch a time, when the <hi>Protestants</hi> through the Kingdom were diſarmed, all Forts and Garriſons (except <hi>London-Derry</hi>) in the Hands of the <hi>Papiſts,</hi> the whole Army of the ſame cue, Maſs celebrated in every Town, and no way left to give a check to the accompliſhment of their <hi>
+                     <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>chriſtian deſigns,</hi> &amp; fruſtrating their <hi>Plot</hi> of a general <hi>Maſſacre;</hi> but by preſerving that Place in the Hands of the <hi>Proteſtants.</hi>
+               </p>
+               <p n="3">3. The Return of the Forces under the Command of Col. <hi>Cunningham,</hi> ſent to the Relief of <hi>London-Derry,</hi> without En<g ref="char:EOLhyphen"/>tring the Place or Landing. It being morally certain, that if thoſe Forces had Landed under the Command of Experien<g ref="char:EOLhyphen"/>ced Officers, thoſe brave and hardy Men, who have ſo ſignali<g ref="char:EOLhyphen"/>zed themſelves by their Valor, had been ſuperſeded from Duty, and perhaps oblig'd to take the Field; and it may without of<g ref="char:EOLhyphen"/>fence be doubted, whether thoſe, who were to ſucceed them, would have given ſo advantageous an account of their Actions.</p>
+               <p n="4">4. The deſertion of the Place by <hi>the then Governour,</hi> and (by his Example and Encouragement) the withdrawing of ſo many Gentlemen &amp; Families into <hi>England</hi> &amp; <hi>Scotland;</hi> whoſe continuance there, would quickly have conſumed the Pro<g ref="char:EOLhyphen"/>viſions in the Place, &amp; obliged them to an untimely Surrender.</p>
+               <p n="5">5. The precipitancy and over-ſight of Col<g ref="char:punc">▪</g> 
+                  <hi>Luna,</hi> in de<g ref="char:EOLhyphen"/>ſerting the Place, and leaving above 400 Barrels of Powder in the Magazine; which he ought not to have done, when he thought the City was not Tenable, but that very Store, thus by Providence over lookt, and left behind, hath Defended the
+<pb n="10" facs="tcp:43681:6"/>
+Place, and contributed much to the Deſtruction of the Enemy<g ref="char:punc">▪</g>
+               </p>
+               <p n="6">6. The unanimous ſuffrage of the People in Electing &amp; Con<g ref="char:EOLhyphen"/>ſtituting Mr. <hi>George Walker their Commander in Chief;</hi> than whom they could not have pitch'd upon a Perſon more com<g ref="char:EOLhyphen"/>pleatly adapted to ſo caprichious an Imployment; being a Man of Exquiſite Parts, having a neat Dexterity in accom<g ref="char:EOLhyphen"/>modating the humours of the Rabble; a diſcreet Temper in moderating the diverſity of perſwaſions; a prudent mana<g ref="char:EOLhyphen"/>gery of the common Proviſions; a vigilant Care in the order of Guards, Watches and Exerciſe; and an undaunted Cou<g ref="char:EOLhyphen"/>rage in Leading them on to the moſt hazardous Enterprizes.</p>
+               <p n="7">7. The departure of the moſt part of the Citizens and In<g ref="char:EOLhyphen"/>habitants, who being unaccuſtomed with the dreadful Treat<g ref="char:EOLhyphen"/>ments of War, might probably have been induced to a Treaty of Surrender, in hope to ſave their Lives, their Houſes, and their Goods. And in their ſtead, the Arrival of ſo many Strangers from all parts of <hi>
+                     <g ref="char:V">Ʋ</g>lſter,</hi> of whom the Garriſon was compoſed; who being enraged by the loſs of their Eſtates and Goods; and being made deſperate by their Con<g ref="char:EOLhyphen"/>finement to that place, from whence there was no poſſibility of Retreat, or Eſcape; they have performed ſuch Actions, as no Arm of Fleſh would ever have atchieved, without a Di<g ref="char:EOLhyphen"/>vine Support.</p>
+               <p n="8">8. The Arrival of Four Hundred and Eighty Barrels of Powder, with other Amunition, and Two Thouſand Arms, at ſuch a time, when the abſolute ſcarcity of ſuch Proviſion muſt neceſſarily have oblig'd the Inhabitants to Submit to their Enemies, upon the Firſt Inveſting of the Place.</p>
+               <p n="9">9. The Retreat of the Forces from <hi>Colerain,</hi> which being a Place no way Tenable, they muſt have been expoſed to Rout and Ruin; whereas by their admiſſion into <hi>London-Derry,</hi> the Garriſon became recruited &amp; re-inforced by many good Men.</p>
+               <p n="10">10. The Treacherous Proceedings of the Enemy, as that of Lieutenant General <hi>Hamilton,</hi> who having promiſed and agreed that he ſhould not <hi>March the Army within Four Miles of the Town,</hi> made an orderly Approach to the Walls, during the very time of the Treaty: The Barbarous <hi>Murder of Captain</hi> Cunningham, <hi>after being taken Priſoner, and Quarter given; the Firing of an Hundred ſhot at Mr.</hi> Walker, <hi>when he went out upon their hanging up a White-Flag,
+<pb n="11" facs="tcp:43681:6"/>
+and their Invitation to a Treaty; their diſhonourable breaking of Parol, in detaining Mr.</hi> White <hi>and two others, with their Boat, who were ſent out upon the Enemies deſire, that they might have leave to come to them;</hi> Laſtly, <hi>The Diſcovery of their Oath and Reſolutions not to keep Faith with the beſieged, and to break whatever Articles ſhould be made with them;</hi> which one of their Party, a Priſoner in the Town, declared upon meer Conviction of Conſcience, and a Horror of their perfidious Dealings.</p>
+               <p n="11">11. The falling of a <hi>Bomb,</hi> deſigned for Deſtruction, but by the direction of Providence, lighting in ſuch a Place, where by tearing open the Ground, a great many Sacks of Meal were diſcovered, which there had been buried; upon the ſight of which, the People were Encouraged to make a further ſearch in the Back-ſides and Yards, and found as much Proviſion as ſerved to Supply the Garri<g ref="char:EOLhyphen"/>ſon for a whole Month. The Error of the Enemies <hi>Bombar<g ref="char:EOLhyphen"/>deir,</hi> in caſting a great Bomb beyond the Walls, which falling into a Mine, where the Enemy were buſie at work, deſtroy'd ſe<g ref="char:EOLhyphen"/>veral of their own Men, and utterly fruſtrated that Deſign.</p>
+               <p n="12">12. The many bold and ſucceſsful <hi>Sallies</hi> made by a mingled Company of freſh, untrain'd, unexperienc'd Men, againſt an Army of Twenty Thouſand well Diſciplin'd, well Arm'd, well Mounted Souldiers, animated with their uninterrupted Proceedings, and confident of Reducing that poor neglected Place, by Storming or Starving; whereof you may ſee ſome Inſtances in <hi>Mr.</hi> Walkers <hi>Account of the Siege of London Derry,</hi> pag. 23, 24, 25, 27, 28, 33, 38. And which is very admirable, in all theſe Rencounters, and during the whole Siege, there were not above <hi>Eighty Men</hi> of the Garriſon cut off, while between <hi>Eight and Nine Thouſand</hi> of the beſiegers fell and periſhed.</p>
+               <p n="13">13. The Proclamation ſet out by the Late King <hi>James,</hi> inviting all <hi>Proteſtants</hi> to return to their Dwellings, and remain under his Protection, had an Effect contrary to his intent, and help'd to keep <hi>London-Derry</hi> from falling into his Hands. For taking hold on this occaſion, above Ten Thouſand <hi>Proteſtants,</hi> of the moſt infirm, and moſt un<g ref="char:EOLhyphen"/>ſerviceable (who yet had Mouths and Bellies) went out of the Garriſon, and by that means the Proviſions laſted the longer.</p>
+               <p n="14">
+                  <pb n="12" facs="tcp:43681:7" rendition="simple:additions"/>14. The barbarous and moſt inhumane <hi>driving the Pro<g ref="char:EOLhyphen"/>teſtants before the Walls of London-Derry,</hi> is not only remark<g ref="char:EOLhyphen"/>able, by their Diſmiſſion and their Eſcape from the Guns of the Town, which fired upon them; but that in their retreat, the <hi>Governour</hi> handſomely and undiſcern'd, ſhuffled in among them above eight Hundred poor <hi>Proteſtants,</hi> Women, Children, and unſerviceable Men, which in a few days muſt have peri<g ref="char:EOLhyphen"/>ſhed in the Streets.</p>
+               <p n="15">15. The wonderful and ſuper-natural Courage of the very Women in the Town, who ſhewing no token of Fear or Diſmay, appeared upon the Walls, upon every approach of the Enemy, regardleſs of the Bullets flying about them, running to and fro to furniſh the Souldiers with Powder, and bringing Stones to ſupply them toward their better Reſiſtance.</p>
+               <p n="16">16. Nay, even Famine and Sickneſs contributed to the Preſervation of the Place. For had it not pleaſed God (the Diſpoſer of Life and Death) to take out of the World ſeven or eight Thouſand of the beſieged by ſuch ways; the whole Number muſt inevitably have periſhed by want, or ſubmit to the Arbitrary Terms of faithleſs and mercileſs Men.</p>
+               <p>
+                  <hi>Laſtly,</hi> The moſt opportune Relief brought to them at the very pinch of Extreamity, <hi>when they only reckoned upon two Days Life, and had only Nine lean Horſes left, and among them all, but one Pint of Meal to each Man, and of Seven Thouſand Five Hundred Regimented Men, only Four Thouſand Three Hundred remaining; whereof at least one fourth Part was rendred un<g ref="char:EOLhyphen"/>ſerviceable.</hi> The wonderful breaking or paſſing the Boom (which the Enemy had laid croſs the River) by the Skill and Valour of Capt. <hi>Michaiah Browning,</hi> who, under God, ſaved <hi>London-Derry,</hi> by the loſs of himſelf. Had theſe things been effected ſooner, men would have been too apt to boaſt of themſelves, to aſcribe their Deliverance to the Strength, Con<g ref="char:EOLhyphen"/>duct, and Courage of their Relievers: Whereas now it is un<g ref="char:EOLhyphen"/>deniably Evident, that God Almighty condeſcended to watch over that poor City, and to Reſcue that Remnant of <hi>Prote<g ref="char:EOLhyphen"/>ſtants,</hi> from utter Deſtruction, when they were not capable to help themſelves. <hi>He only did it then, &amp; He would not do it ſooner.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. Simpſon</hi> at the <hi>Harp</hi> in St. <hi>Pauls Church-yard,</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
